@@ -1,4 +1,4 @@
-project_name,locs,stars,files,database_accesses_found,commit_checkout
+repo,js,stars,files,database_accesses_found,last_commit_hash
 freeCodeCamp/freeCodeCamp,53345,335035,622,23,bd7bf6971f7bd0460211f9c2173b1c39da090687
 freeCodeCamp/pantry-for-good,54502,360,453,162,b42e9ff4438f43507a8039dc71831f4ca68a2437
 freeCodeCamp/meeting-for-good,6119,338,77,32,34a12bdd48c7ca2e3d02612398e5c0b6aa6b8831
@@ -150,7 +150,6 @@ DimiMikadze/create-social-network,8716,1044,173,40,117316406af8e34356584a23b95f1
 DimiMikadze/node-redux-auth,1211,182,40,30,388d5985a89df83a86c5fa6c036a8a88145fb1a9
 mafintosh/mongojs,2385,1781,84,71,df1fb993c379ff48537d3028f6722eaf6f5db014
 keystonejs/keystone,72102,5150,1098,58,b9ab63ad35f2227c0200c8a406d059cb04abbdf0
-keystonejs/keystone-5,72102,54,1098,58,b9ab63ad35f2227c0200c8a406d059cb04abbdf0
 icebob/vue-express-mongo-boilerplate,6312,2812,112,79,fd48e4af64ec76cb03ccb0c86d3919732f149938
 alexyoung/nodepad,1090,755,13,16,68357e774e2c971b39f9dec343a5c1c763d76401
 seejohnrun/haste-server,1335,2392,23,3,5d2965ffc5d9b309ef6d4be9e8c2288c83d72c73
@@ -172,7 +171,6 @@ foxhound87/rfx-stack,1760,426,73,2,cc3a5ae340a8e96716d1874e4d6d261b452f7e37
 ltonetwork/mongodb-rest,3377,408,31,35,2e1a682b184329f992fb3e799de26249d6cb3bc2
 LearningLocker/learninglocker,60605,461,1121,152,594ef496d8a9411340404301a55cf95de0079a6d
 datatypevoid/vulgar,1170,292,76,22,bf6017fb2dd38d406b07a7b549680587f2d39277
-datatypevoid/ng2-mean-webpack,1055,99,54,22,39112fc8ddee3912fedb755189ef5c522f13f8f5
 chevex-archived/mongoose-auto-increment,317,330,2,9,50bd2a642c7565cf0a9f2c368d437b83160ad0a6
 Jerenaux/phaserquest,36021,328,32,16,4b4c322b4e6a45092752426c1b86cca2cb404bda
 DaftMonk/fullstack-demo,1816,275,50,25,a78b57fdc2eaef52e705b0972a22fa5f0933a59f
@@ -263,7 +261,6 @@ snodgrass23/base12,851,169,29,5,12720d86a338efc620dddb8258a03ebae9b7de2e
 anticoders/gagarin,6368,154,71,9,4f06bbff4221d8e75b73026b638b003f11821fa5
 vinitkumar/node-twitter,8496,265,37,54,c81e53f92e02c90e05087ec39794a934af3c9ddb
 widestage/widestage,45718,260,283,98,0d160825004b1711516caeea135fdb02ea07e49d
-CommonGarden/Grow-IoT,6182,22,112,22,d5e3746ef7b4633c002c7b89636e43bdc6d08905
 zipfworks/ember-prerender,1255,141,38,3,d6eeb0df4524ac54f06b3cda0c755b7e66079bb3
 zishon89us/node-cheat,3096,384,130,19,b9cfbff4768a98157409a0057c16f0961b3d1776
 EasyERP/EasyERP_open_source,487631,174,1634,2213,693c2531b8bcb110c4ab8ef649895a5f47c3aed8
@@ -273,7 +270,6 @@ Isithelo/Fraternate,32647,133,34,4,30872b63f89dddc29e2b2599e3ed44af426b8548
 cagataycali/url-shortener,17398,155,25,5,dc96847c6d3d07c5f6fabe46bb77da27fde0885e
 ramiel/mongoose-sequence,1007,222,5,8,127b4a52c77b41caa87fdcb27ee3763ede1ee019
 zsxsoft/danmu-server,1712,167,38,2,1b030926221e48a9cadf8029fb62e9d555b6f3af
-lmarkus/Kraken_Example_Shopping_Cart,322,93,12,7,8ff3100bb06f9051270767432e3b51be4b9ee83f
 mongoosastic/mongoosastic,4427,973,31,2,558ba1a486ae1efdb0a48dba279d69118679d3c5
 scotch/sapling,10159,114,90,20,e4c1da9aa8e25eca6c790c910d1e19da03f63788
 dstroot/skeleton,133185,372,424,79,163a9e2ab067e402758007451b86396fe2e4cc81
