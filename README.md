@@ -10,6 +10,6 @@ Online appendix of the paper "Static Analysis of Database Accesses in MongoDB Ap
 
 ## Evaluation
 
-- [List of the projects used for evaluation](project_stats.csv)
+- [List of the projects used for evaluation](projects_stats.csv)
 - [List of database accesses identified by the approach](database_accesses.csv)
 - [Oracle of manually checked database accesses](evaluation_file.csv)
